@@ -1,2 +1,2 @@
 # hello-world
-a new repository
+hello everyone,I'm a new member of here.
